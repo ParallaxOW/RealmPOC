@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Acosta Realm POC Droid</string>
+    <string name="action_settings">Settings</string>
+  
+    <string name="Cycle_Label">Cycle?</string>
+    <string name="CycleButton_Label">Get Cycle</string>
+</resources>
