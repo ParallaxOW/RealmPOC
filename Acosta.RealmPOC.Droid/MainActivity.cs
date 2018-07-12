@@ -11,7 +11,6 @@ using Android.Views;
 namespace Acosta.RealmPOC.Droid
 {
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
-    [MetaData("com.google.android.maps.v2.API_KEY", Value = "AIzaSyB6gpySUw0CppseU9WgQMUbxvGrtB113M0")]
     public class MainActivity : ListActivity
     {
         CycleService cycleService;
